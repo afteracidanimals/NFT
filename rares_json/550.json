@@ -1,8 +1,8 @@
 {
   "name": "After Acid Animals - Rare Owl",
-  "description": "Ultra rare animated Owl from After Acid Animals collection.",
+  "description": "AfterAcidAnimals/x555 by Danis",
   "edition": 550,
-  "animation_url": "https://afteracidanimals.github.io/NFT/rares/Rare_Owl.mov",
+  "animation_url": "https://afteracidanimals.github.io/NFT/rares/Rare_Owl.mp4",
   "attributes": [
     { "trait_type": "Animal", "value": "Owl" },
     { "trait_type": "Rarity", "value": "Rare" },
