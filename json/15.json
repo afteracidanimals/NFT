@@ -1,0 +1,27 @@
+﻿{
+    "name":  "AfterAcidAnimals #15",
+    "description":  "AfterAcidAnimals/x555 by Danis",
+    "image":  "ipfs://NewUriToReplace/15.png",
+    "imageHash":  "359a0d991866b473c4352a6c3f0bdf823359e103ac459cec4ff3e1d33068c9e4",
+    "edition":  15,
+    "date":  1769643886279,
+    "attributes":  [
+                       {
+                           "value":  "Cat",
+                           "trait_type":  "Animal"
+                       },
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Dark"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "White"
+                       },
+                       {
+                           "trait_type":  "Eyes",
+                           "value":  "Green"
+                       }
+                   ],
+    "compiler":  "HashLips Art Engine - NFTChef fork"
+}

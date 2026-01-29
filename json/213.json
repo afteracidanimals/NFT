@@ -1,0 +1,27 @@
+﻿{
+    "name":  "AfterAcidAnimals #213",
+    "description":  "AfterAcidAnimals/x555 by Danis",
+    "image":  "ipfs://NewUriToReplace/213.png",
+    "imageHash":  "d0b5d70e937fd1de8bdc6c2dc4c3ef399775890a419102d68c0fa66c7ef0e0c2",
+    "edition":  213,
+    "date":  1769644138076,
+    "attributes":  [
+                       {
+                           "value":  "Owl",
+                           "trait_type":  "Animal"
+                       },
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Green"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "Rainbow"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "Green"
+                       }
+                   ],
+    "compiler":  "HashLips Art Engine - NFTChef fork"
+}

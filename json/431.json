@@ -1,0 +1,23 @@
+﻿{
+    "name":  "AfterAcidAnimals #431",
+    "description":  "AfterAcidAnimals/x555 by Danis",
+    "image":  "ipfs://NewUriToReplace/431.png",
+    "imageHash":  "8bb3d062591f5389cd0bac0a90f9895bd4048015436f0b5816a4da3402368fb6",
+    "edition":  431,
+    "date":  1769644402601,
+    "attributes":  [
+                       {
+                           "value":  "Elephant",
+                           "trait_type":  "Animal"
+                       },
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Pink"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "Rose"
+                       }
+                   ],
+    "compiler":  "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,23 @@
+﻿{
+    "name":  "AfterAcidAnimals #488",
+    "description":  "AfterAcidAnimals/x555 by Danis",
+    "image":  "ipfs://NewUriToReplace/488.png",
+    "imageHash":  "a00f9e5011bb22bf5a34f0f4405146f5efc8937042e157faf2d3aa7c2c86b5f7",
+    "edition":  488,
+    "date":  1769644476890,
+    "attributes":  [
+                       {
+                           "value":  "Lizard",
+                           "trait_type":  "Animal"
+                       },
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Blue"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "Purple"
+                       }
+                   ],
+    "compiler":  "HashLips Art Engine - NFTChef fork"
+}

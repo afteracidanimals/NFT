@@ -1,0 +1,23 @@
+﻿{
+    "name":  "AfterAcidAnimals #334",
+    "description":  "AfterAcidAnimals/x555 by Danis",
+    "image":  "ipfs://NewUriToReplace/334.png",
+    "imageHash":  "5d54f34e1020143b1d1c71a94a337aec5cfaf3b867a2beb7fe0c6976c60660ca",
+    "edition":  334,
+    "date":  1769644284892,
+    "attributes":  [
+                       {
+                           "value":  "Zebra",
+                           "trait_type":  "Animal"
+                       },
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Yellow"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "Green"
+                       }
+                   ],
+    "compiler":  "HashLips Art Engine - NFTChef fork"
+}

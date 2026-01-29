@@ -1,0 +1,11 @@
+{
+  "name": "After Acid Animals - Rare Zebra",
+  "description": "Ultra rare animated Zebra from After Acid Animals collection.",
+  "edition": 552,
+  "animation_url": "https://afteracidanimals.github.io/NFT/rares/Rare_Zebra.mov",
+  "attributes": [
+    { "trait_type": "Animal", "value": "Zebra" },
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Type", "value": "Animated 1/1" }
+  ]
+}
