@@ -1,8 +1,8 @@
 {
   "name": "After Acid Animals - Rare Cat",
-  "description": "Ultra rare animated Cat from After Acid Animals collection.",
+  "description": "AfterAcidAnimals/x555 by Danis",
   "edition": 549,
-  "animation_url": "https://afteracidanimals.github.io/NFT/rares/Rare_Cat.mov",
+  "animation_url": "https://afteracidanimals.github.io/NFT/rares/Rare_Cat.mp4",
   "attributes": [
     { "trait_type": "Animal", "value": "Cat" },
     { "trait_type": "Rarity", "value": "Rare" },
