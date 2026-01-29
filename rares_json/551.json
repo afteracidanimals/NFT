@@ -1,8 +1,8 @@
 {
   "name": "After Acid Animals - Rare Panda",
-  "description": "Ultra rare animated Panda from After Acid Animals collection.",
+  "description": "AfterAcidAnimals/x555 by Danis",
   "edition": 551,
-  "animation_url": "https://afteracidanimals.github.io/NFT/rares/Rare_Panda.mov",
+  "animation_url": "https://afteracidanimals.github.io/NFT/rares/Rare_Panda.mp4",
   "attributes": [
     { "trait_type": "Animal", "value": "Panda" },
     { "trait_type": "Rarity", "value": "Rare" },
